@@ -1,9 +1,9 @@
 [
   {
-    "Author": "Slimey",
-    "Name": "Easy Solver",
-    "InternalName": "EasySolver",
-    "Description": "[very experimental] Lazy on a whole new level.",
+    "Author": "Kirbo",
+    "Name": "ReRotationSolver",
+    "InternalName": "ReRotationSolver",
+    "Description": "RE-Release of RS.",
     "ApplicableVersion": "any",
     "Tags": [
       "combat",
@@ -18,30 +18,29 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/UnstableFlipPhone/EasySolver/main/Images/logo.png",
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/ReRotationSolver/main/Images/logo.png",
     "Punchline": "Cause being lazy is nice",
     "ImageUrls": [
-      "https://github.com/UnstableFlipPhone/EasySolver/raw/main/Images/banner.png"
+      "https://github.com/BrakusTapus/ReRotationSolver/raw/main/Images/banner.png"
     ],
     "AcceptsFeedback": true,
     "AssemblyVersion": "0.1.0.7",
     "Changelog": "",
     "DownloadCount": "2",
     "LastUpdate": 1696388800,
-    "RepoUrl": "https://github.com/UnstableFlipPhone/EasySolver",
-    "DownloadLinkInstall": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/0.1.0.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/0.1.0.7/latest.zip"
+    "RepoUrl": "https://github.com/BrakusTapus/ReRotationSolver",
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/ReRotationSolver/releases/download/3.6.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ReRotationSolver/releases/download/3.6.0/latest.zip"
   },
   {
-    "Author": "Slimey",
-    "Name": "Unstable Plugin",
-    "InternalName": "UnstablePlugin",
+    "Author": "Kirbo",
+    "Name": "Aetherbox",
+    "InternalName": "AetherBox",
     "Description": "test-plugin.",
     "ApplicableVersion": "any",
     "Tags": [
       "test",
-      "plugin",
-      "Slimey"
+      "plugin"
     ],
     "CategoryTags": [
       "UI"
@@ -52,7 +51,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/UnstableFlipPhone/EasySolver/main/Images/Logo.png",
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/AetherBox/main/Images/Logo.png",
     "Punchline": "",
     "ImageUrls": [
       ""
