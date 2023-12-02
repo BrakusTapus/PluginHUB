@@ -19,12 +19,12 @@
     "LoadPriority": 0,
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/ReRotationSolver/main/Images/logo.png",
-    "Punchline": "Cause being lazy is nice",
+    "Punchline": "Cause fork",
     "ImageUrls": [
       "https://github.com/BrakusTapus/ReRotationSolver/raw/main/Images/banner.png"
     ],
     "AcceptsFeedback": true,
-    "AssemblyVersion": "0.1.0.7",
+    "AssemblyVersion": "3.6.0",
     "Changelog": "",
     "DownloadCount": "2",
     "LastUpdate": 1696388800,
