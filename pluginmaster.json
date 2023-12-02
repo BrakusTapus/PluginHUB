@@ -1,0 +1,69 @@
+[
+  {
+    "Author": "Slimey",
+    "Name": "Easy Solver",
+    "InternalName": "EasySolver",
+    "Description": "[very experimental] Lazy on a whole new level.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "combat",
+      "rotation"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/UnstableFlipPhone/EasySolver/main/Images/logo.png",
+    "Punchline": "Cause being lazy is nice",
+    "ImageUrls": [
+      "https://github.com/UnstableFlipPhone/EasySolver/raw/main/Images/banner.png"
+    ],
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "0.1.0.7",
+    "Changelog": "",
+    "DownloadCount": "2",
+    "LastUpdate": 1696388800,
+    "RepoUrl": "https://github.com/UnstableFlipPhone/EasySolver",
+    "DownloadLinkInstall": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/0.1.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/UnstableFlipPhone/EasySolver/releases/download/0.1.0.7/latest.zip"
+  },
+  {
+    "Author": "Slimey",
+    "Name": "Unstable Plugin",
+    "InternalName": "UnstablePlugin",
+    "Description": "test-plugin.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "test",
+      "plugin",
+      "Slimey"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/UnstableFlipPhone/EasySolver/main/Images/Logo.png",
+    "Punchline": "",
+    "ImageUrls": [
+      ""
+    ],
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "0.0.13",
+    "Changelog": "",
+    "DownloadCount": "1",
+    "LastUpdate": 1696388800,
+    "RepoUrl": "https://github.com/UnstableFlipPhone/UnstablePlugin",
+    "DownloadLinkInstall": "https://github.com/UnstableFlipPhone/UnstablePlugin/releases/download/0.0.13/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/UnstableFlipPhone/UnstablePlugin/releases/download/0.0.13/latest.zip"
+  }
+]
