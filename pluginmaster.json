@@ -18,7 +18,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/ReRotationSolver/main/Images/logo.png",
+    "IconUrl": "https://github.com/BrakusTapus/ReRotationSolver/blob/main/Images/Logo.png",
     "Punchline": "Cause fork",
     "ImageUrls": [
       "https://github.com/BrakusTapus/ReRotationSolver/raw/main/Images/banner.png"
