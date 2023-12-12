@@ -1,23 +1,36 @@
 [
   {
-    "Author": "croizat",
-    "Name": "Rotation Solver",
-    "Punchline": "Analyses combat information every frame and finds the best action.",
-    "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\n\nThen, it will highlight the best action on the hot bar, or help you to click on it.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
+    "Author": "Kirbo",
+    "Name": "RotationSolver-dev",
+    "InternalName": "RotationSolver-dev",
+    "Description": "Dev version of RS for testing fixes.",
+    "ApplicableVersion": "any",
     "Tags": [
       "combat",
       "rotation"
     ],
-    "InternalName": "RotationSolver",
-    "RepoUrl": "https://github.com/Jaksuhn/RotationSolver",
-    "DownloadCount": 666,
-    "LastUpdate": 1702340718490,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/44/RotationSolver/versions/latest.zip",
-    "AssemblyVersion": "3.5.6.8",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": ""
+    "CategoryTags": [
+      "jobs"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://github.com/BrakusTapus/ReRotationSolver/blob/main/Images/Logo.png",
+    "Punchline": "Testing good",
+    "ImageUrls": [
+      "https://github.com/BrakusTapus/ReRotationSolver/raw/main/Images/banner.png"
+    ],
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "3.5.6.9",
+    "Changelog": "",
+    "DownloadCount": "2",
+    "LastUpdate": 1696388800,
+    "RepoUrl": "https://github.com/BrakusTapus/RotationSolver-dev",
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver-dev/releases/download/3.5.6.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/RotationSolver-dev/releases/download/3.5.6.9/latest.zip"
   },
   {
     "Author": "Kirbo",
