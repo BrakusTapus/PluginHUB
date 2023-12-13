@@ -61,8 +61,41 @@
     "Changelog": "",
     "DownloadCount": "1",
     "LastUpdate": 1696388800,
-    "RepoUrl": "https://github.com/UnstableFlipPhone/UnstablePlugin",
-    "DownloadLinkInstall": "https://github.com/UnstableFlipPhone/UnstablePlugin/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/UnstableFlipPhone/UnstablePlugin/releases/download/0.0.0.1/latest.zip"
+    "RepoUrl": "https://github.com/BrakusTapus/AetherBox",
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.1/latest.zip"
+  },
+  {
+    "Author": "Kirbo",
+    "Name": "ActionTimelineEx",
+    "InternalName": "ActionTimelineEx",
+    "Description": "A Final Fantasy XIV Dalamud Plugin that shows a timeline with the actions you use in real-time.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "test",
+      "plugin"
+    ],
+    "CategoryTags": [
+      "UI"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/ActionTimelineEx/main/Images/Logo.png",
+    "Punchline": "",
+    "ImageUrls": [
+      ""
+    ],
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "1.3.6",
+    "Changelog": "",
+    "DownloadCount": "1",
+    "LastUpdate": 1696388800,
+    "RepoUrl": "https://github.com/BrakusTapus/ActionTimelineEx",
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.6/latest.zip"
   }
 ]
