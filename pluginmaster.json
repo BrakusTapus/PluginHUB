@@ -18,10 +18,10 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://github.com/BrakusTapus/ReRotationSolver/blob/main/Images/Logo.png",
+    "IconUrl": "https://github.com/BrakusTapus/RotationSolver-dev/blob/main/Images/Logo.png",
     "Punchline": "Testing good",
     "ImageUrls": [
-      "https://github.com/BrakusTapus/ReRotationSolver/raw/main/Images/banner.png"
+      "https://github.com/BrakusTapus/RotationSolver-dev/raw/main/Images/banner.png"
     ],
     "AcceptsFeedback": true,
     "AssemblyVersion": "3.5.6.9",
@@ -51,7 +51,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/AetherBox/main/Images/Logo.png",
+    "IconUrl": "https://github.com/BrakusTapus/AetherBox/blob/main/Images/logo.png",
     "Punchline": "",
     "ImageUrls": [
       ""
@@ -84,18 +84,18 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/ActionTimelineEx/main/Images/Logo.png",
+    "IconUrl": "https://github.com/BrakusTapus/ActionTimelineEx/blob/main/Images/Logo.png",
     "Punchline": "",
     "ImageUrls": [
       ""
     ],
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.3.6",
+    "AssemblyVersion": "1.3.7",
     "Changelog": "",
     "DownloadCount": "1",
     "LastUpdate": 1696388800,
     "RepoUrl": "https://github.com/BrakusTapus/ActionTimelineEx",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.6/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7/latest.zip"
   }
 ]
