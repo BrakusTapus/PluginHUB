@@ -1,0 +1,20 @@
+{
+  "Author": "Kirbo",
+  "Name": "AetherBox",
+  "InternalName": "AetherBox",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Multi Purpose Private Plugin.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/BrakusTapus/AetherBox",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://github.com/BrakusTapus/AetherBox/blob/effea4d2fbfb0e156cfabef97d1c4320fba7eb07/Images/banner.png"
+  ],
+  "IconUrl": "https://github.com/BrakusTapus/AetherBox/blob/effea4d2fbfb0e156cfabef97d1c4320fba7eb07/Images/logo.png",
+  "Punchline": "Features various tools and settings for private useage",
+  "AcceptsFeedback": true
+}
