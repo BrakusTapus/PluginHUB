@@ -1,8 +1,8 @@
 [
   {
     "Author": "Kirbo",
-    "Name": "RotationSolver-dev",
-    "InternalName": "RotationSolver-dev",
+    "Name": "RotationSolver",
+    "InternalName": "RotationSolver",
     "Description": "Dev version of RS for testing fixes.",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,19 +18,19 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://github.com/BrakusTapus/RotationSolver-dev/blob/main/Images/Logo.png",
+    "IconUrl": "https://github.com/BrakusTapus/RotationSolver/blob/98706c61d9f2e80a1bfbc4ed44eb7fa76f548383/Images/Logo.png",
     "Punchline": "Testing good",
     "ImageUrls": [
-      "https://github.com/BrakusTapus/RotationSolver-dev/raw/main/Images/banner.png"
+      "https://github.com/BrakusTapus/RotationSolver/raw/main/Images/banner.png"
     ],
     "AcceptsFeedback": true,
     "AssemblyVersion": "3.5.6.9",
     "Changelog": "",
     "DownloadCount": "2",
     "LastUpdate": 1696388800,
-    "RepoUrl": "https://github.com/BrakusTapus/RotationSolver-dev",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver-dev/releases/download/3.5.6.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/RotationSolver-dev/releases/download/3.5.6.9/latest.zip"
+    "RepoUrl": "https://github.com/BrakusTapus/RotationSolver",
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver/releases/download/3.5.6.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/RotationSolver/releases/download/3.5.6.9/latest.zip"
   },
   {
     "Author": "Kirbo",
@@ -90,12 +90,12 @@
       ""
     ],
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.3.7",
+    "AssemblyVersion": "1.3.7.1",
     "Changelog": "",
     "DownloadCount": "1",
     "LastUpdate": 1696388800,
     "RepoUrl": "https://github.com/BrakusTapus/ActionTimelineEx",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.1/latest.zip"
   }
 ]
