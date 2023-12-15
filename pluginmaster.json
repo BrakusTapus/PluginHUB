@@ -29,8 +29,8 @@
     "DownloadCount": "2",
     "LastUpdate": 1696388800,
     "RepoUrl": "https://github.com/BrakusTapus/RotationSolver",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver/releases/download/3.5.6.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/RotationSolver/releases/download/3.5.6.9/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver/releases/latest/download/latest.zip"
   },
   {
     "Author": "Kirbo",
@@ -62,8 +62,8 @@
     "DownloadCount": "1",
     "LastUpdate": 1696388800,
     "RepoUrl": "https://github.com/BrakusTapus/AetherBox",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/latest/download/latest.zip"
   },
   {
     "Author": "Kirbo",
@@ -95,7 +95,7 @@
     "DownloadCount": "1",
     "LastUpdate": 1696388800,
     "RepoUrl": "https://github.com/BrakusTapus/ActionTimelineEx",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/latest/download/latest.zip"
   }
 ]
