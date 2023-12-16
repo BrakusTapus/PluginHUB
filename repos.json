@@ -1,0 +1,30 @@
+[
+  {
+    "username": "BrakusTapus",
+    "pluginName": "RotationSolver",
+    "repo": "RotationSolver",
+    "branch": "main",
+    "configFolder": "RotationSolver"
+  },
+  {
+    "username": "BrakusTapus",
+    "pluginName": "AetherBox",
+    "repo": "AetherBox",
+    "branch": "main",
+    "configFolder": "AetherBox"
+  }
+  {
+    "username": "BrakusTapus",
+    "pluginName": "ActionTimelineEx",
+    "repo": "ActionTimelineEx",
+    "branch": "main",
+    "configFolder": "ActionTimelineEx"
+  },
+  {
+    "username": "BrakusTapus",
+    "pluginName": "SamplePlugin",
+    "repo": "SamplePlugin",
+    "branch": "main",
+    "configFolder": "SamplePlugin"
+  }
+]
