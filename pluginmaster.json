@@ -42,14 +42,15 @@
   {
     "Author": "Kirbo",
     "Name": "Sample Plugin",
-    "Punchline": "A one-liner.",
-    "Description": "A description that shows up in /xlplugins.",
+    "Punchline": "A plugin for private use. It does not provide anything usefull.",
+    "Description": "This plugin serves as a sandbox/playground for me, it serves no purpose.",
     "InternalName": "SamplePlugin",
     "RepoUrl": "https://github.com/BrakusTapus/SamplePlugin",
     "ApplicableVersion": "any",
     "Tags": [
       "sample",
-      "plugin"
+      "plugin",
+      "private"
     ],
     "DalamudApiLevel": 9,
     "AcceptsFeedback": false,
@@ -60,8 +61,8 @@
     "Changelog": "Click the new Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.0.4",
-    "LastUpdated": 1702827927,
+    "AssemblyVersion": "0.0.0.5",
+    "LastUpdated": 1702829424,
     "DownloadCount": 3,
     "DownloadLinkInstall": null,
     "DownloadLinkTesting": null,
