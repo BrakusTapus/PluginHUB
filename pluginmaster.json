@@ -1,101 +1,70 @@
 [
   {
     "Author": "Kirbo",
-    "Name": "RotationSolver",
-    "InternalName": "RotationSolver",
-    "Description": "Dev version of RS for testing fixes.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "combat",
-      "rotation"
-    ],
-    "CategoryTags": [
-      "jobs"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://github.com/BrakusTapus/RotationSolver/blob/98706c61d9f2e80a1bfbc4ed44eb7fa76f548383/Images/Logo.png",
-    "Punchline": "Testing good",
-    "ImageUrls": [
-      "https://github.com/BrakusTapus/RotationSolver/raw/main/Images/banner.png"
-    ],
-    "AcceptsFeedback": true,
-    "AssemblyVersion": "3.5.6.9",
-    "Changelog": "",
-    "DownloadCount": "2",
-    "LastUpdate": 1696388800,
-    "RepoUrl": "https://github.com/BrakusTapus/RotationSolver",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver/releases/latest/download/latest.zip",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/RotationSolver/releases/latest/download/latest.zip"
-  },
-  {
-    "Author": "Kirbo",
-    "Name": "Aetherbox",
+    "Name": "AetherBox",
     "InternalName": "AetherBox",
-    "Description": "test-plugin.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "test",
-      "plugin"
-    ],
-    "CategoryTags": [
-      "UI"
-    ],
-    "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://github.com/BrakusTapus/AetherBox/blob/main/Images/logo.png",
-    "Punchline": "",
-    "ImageUrls": [
-      ""
-    ],
-    "AcceptsFeedback": true,
-    "AssemblyVersion": "0.0.0.1",
-    "Changelog": "",
-    "DownloadCount": "1",
-    "LastUpdate": 1696388800,
+    "Punchline": "Features various tools and settings for private useage",
+    "Description": "Multi Purpose Private Plugin.",
     "RepoUrl": "https://github.com/BrakusTapus/AetherBox",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/latest/download/latest.zip"
+    "IconUrl": "https://github.com/BrakusTapus/AetherBox/blob/effea4d2fbfb0e156cfabef97d1c4320fba7eb07/Images/logo.png",
+    "ImageUrls": [
+      "https://github.com/BrakusTapus/AetherBox/blob/effea4d2fbfb0e156cfabef97d1c4320fba7eb07/Images/banner.png"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "0.0.0.2",
+    "LastUpdated": 1702673444,
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip"
   },
   {
-    "Author": "Kirbo",
+    "Author": "Tischel, ArchiTed, Kirbo",
     "Name": "ActionTimelineEx",
     "InternalName": "ActionTimelineEx",
-    "Description": "A Final Fantasy XIV Dalamud Plugin that shows a timeline with the actions you use in real-time.",
+    "Punchline": "Show your actions in real-time.",
+    "Description": "Configurable timeline display of all the actions you use.",
+    "repo_url": "https://github.com/BrakusTapus/ActionTimelineEx",
+    "IconUrl": "https://github.com/BrakusTapus/ActionTimelineEx/blob/c0f9e209e1b0aac6543e786bba3809dd3441dd95/Images/logo.png",
+    "ImageUrls": [
+      "https://github.com/BrakusTapus/ActionTimelineEx/blob/c0f9e209e1b0aac6543e786bba3809dd3441dd95/Images/banner.png"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "1.3.7.1",
+    "LastUpdated": 1702672313,
+    "DownloadCount": 4,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.1/latest.zip"
+  },
+  {
+    "Author": "Kirbo",
+    "Name": "Sample Plugin",
+    "Punchline": "A one-liner.",
+    "Description": "A description that shows up in /xlplugins.",
+    "InternalName": "SamplePlugin",
+    "RepoUrl": "https://github.com/BrakusTapus/samplePlugin",
     "ApplicableVersion": "any",
     "Tags": [
-      "test",
+      "sample",
       "plugin"
     ],
-    "CategoryTags": [
-      "UI"
-    ],
     "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IsTestingExclusive": false,
-    "IconUrl": "https://github.com/BrakusTapus/ActionTimelineEx/blob/main/Images/Logo.png",
-    "Punchline": "",
+    "AcceptsFeedback": false,
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/SamplePlugin/images/icon.png",
     "ImageUrls": [
-      ""
+      "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/SamplePlugin/images/image1.png"
     ],
-    "AcceptsFeedback": true,
-    "AssemblyVersion": "1.3.7.1",
-    "Changelog": "",
-    "DownloadCount": "1",
-    "LastUpdate": 1696388800,
-    "RepoUrl": "https://github.com/BrakusTapus/ActionTimelineEx",
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/latest/download/latest.zip"
+    "Changelog": "Click the new Changelog button to see whats new",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "0.0.0.2",
+    "LastUpdated": 1702787468,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.2/latest.zip"
   }
 ]
