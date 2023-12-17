@@ -61,11 +61,11 @@
     "Changelog": "Click the new Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.0.5",
-    "LastUpdated": 1702829424,
+    "AssemblyVersion": "0.0.0.6",
+    "LastUpdated": 1702830732,
     "DownloadCount": 3,
-    "DownloadLinkInstall": null,
-    "DownloadLinkTesting": null,
-    "DownloadLinkUpdate": null
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.6/latest.zip"
   }
 ]
