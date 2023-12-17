@@ -14,7 +14,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "0.0.0.2",
     "LastUpdated": 1702673444,
-    "DownloadCount": 1,
+    "DownloadCount": 3,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip"
@@ -45,7 +45,7 @@
     "Punchline": "A one-liner.",
     "Description": "A description that shows up in /xlplugins.",
     "InternalName": "SamplePlugin",
-    "RepoUrl": "https://github.com/BrakusTapus/samplePlugin",
+    "RepoUrl": "https://github.com/BrakusTapus/SamplePlugin",
     "ApplicableVersion": "any",
     "Tags": [
       "sample",
@@ -53,18 +53,18 @@
     ],
     "DalamudApiLevel": 9,
     "AcceptsFeedback": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/SamplePlugin/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/images/icon.png",
     "ImageUrls": [
       "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/SamplePlugin/images/image1.png"
     ],
     "Changelog": "Click the new Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.0.2",
-    "LastUpdated": 1702787468,
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.2/latest.zip"
+    "AssemblyVersion": "0.0.0.3",
+    "LastUpdated": 1702816008,
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.3/latest.zip"
   }
 ]
