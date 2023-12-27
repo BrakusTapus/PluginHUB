@@ -2,7 +2,7 @@
   {
     "Author": "Kirbo",
     "Name": "AetherBox",
-    "Punchline": "Features various tools and settings for private useage",
+    "Punchline": "Attempt at making my own plugin, (WIP)",
     "Description": "Multi Purpose Private Plugin. Don't get this tho, it doesn't do anything yet...",
     "InternalName": "AetherBox",
     "RepoUrl": "https://github.com/BrakusTapus/AetherBox",
@@ -20,12 +20,12 @@
     "Changelog": "Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.0.2",
-    "LastUpdated": 1702673444,
+    "AssemblyVersion": "0.0.0.4",
+    "LastUpdated": 1703695562,
     "DownloadCount": 3,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.4/latest.zip"
   },
   {
     "Author": "Tischel, ArchiTed, Kirbo",
@@ -99,7 +99,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.11",
     "LastUpdated": 1703683406,
-    "DownloadCount": 1,
+    "DownloadCount": 3,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip"
