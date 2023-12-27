@@ -97,11 +97,11 @@
     "Changelog": "Click the new Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.10",
-    "LastUpdated": 1703679107,
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.10/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.10/latest.zip"
+    "AssemblyVersion": "1.0.0.11",
+    "LastUpdated": 1703683406,
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip"
   }
 ]
