@@ -71,9 +71,37 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "0.0.0.8",
     "LastUpdated": 1703675634,
-    "DownloadCount": 7,
+    "DownloadCount": 8,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip"
+  },
+  {
+    "Author": "Kirbo",
+    "Name": "Fake Name",
+    "Punchline": "Show a fake name on your game ui.",
+    "Description": "Show a fake name on your game ui.",
+    "InternalName": "FakeName",
+    "RepoUrl": "https://github.com/BrakusTapus/FakeName",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "name",
+      "ui"
+    ],
+    "DalamudApiLevel": 9,
+    "AcceptsFeedback": false,
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/FakeName/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/BrakusTapus/FakeName/main/FakeName/images/image1.png"
+    ],
+    "Changelog": "Click the new Changelog button to see whats new",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "1.0.0.10",
+    "LastUpdated": 1703679107,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.10/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.10/latest.zip"
   }
 ]
