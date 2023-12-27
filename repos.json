@@ -19,5 +19,12 @@
         "repo": "SamplePlugin",
         "branch": "main",
         "configFolder": "SamplePlugin"
+    },
+    {
+        "username": "BrakusTapus",
+        "pluginName": "FakeName",
+        "repo": "FakeName",
+        "branch": "main",
+        "configFolder": "FakeName"
     }
 ]
