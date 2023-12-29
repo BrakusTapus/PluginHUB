@@ -26,5 +26,12 @@
         "repo": "FakeName",
         "branch": "main",
         "configFolder": "FakeName"
+    },
+    {
+        "username": "BrakusTapus",
+        "pluginName": "RotationSolver",
+        "repo": "RotationSolver",
+        "branch": "main",
+        "configFolder": "RotationSolver"
     }
 ]
