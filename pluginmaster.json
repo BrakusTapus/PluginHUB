@@ -20,12 +20,12 @@
     "Changelog": "Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.0.4",
-    "LastUpdated": 1703695562,
+    "AssemblyVersion": "1.0.0.1",
+    "LastUpdated": 1704909178,
     "DownloadCount": 5,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/0.0.0.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/AetherBox.json",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/AetherBox.json",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/AetherBox.json"
   },
   {
     "Author": "Kirbo",
@@ -107,7 +107,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.11",
     "LastUpdated": 1703683406,
-    "DownloadCount": 3,
+    "DownloadCount": 6,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip"
