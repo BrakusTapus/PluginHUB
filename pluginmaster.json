@@ -22,10 +22,10 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.1",
     "LastUpdated": 1704909178,
-    "DownloadCount": 5,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/AetherBox.json",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/AetherBox.json",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/AetherBox.json"
+    "DownloadCount": 6,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/latest.zip"
   },
   {
     "Author": "Kirbo",
