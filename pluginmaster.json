@@ -2,8 +2,8 @@
   {
     "Author": "Kirbo",
     "Name": "AetherBox",
-    "Punchline": "Attempt at making my own plugin, (WIP)",
-    "Description": "Multi Purpose Private Plugin. Don't get this tho, it doesn't do anything yet...",
+    "Punchline": "Toolkit for your favorite game!",
+    "Description": "Multi purpose plugin for private use.",
     "InternalName": "AetherBox",
     "RepoUrl": "https://github.com/BrakusTapus/AetherBox",
     "ApplicableVersion": "any",
@@ -20,12 +20,12 @@
     "Changelog": "Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.1",
-    "LastUpdated": 1704909178,
-    "DownloadCount": 6,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.1/latest.zip"
+    "AssemblyVersion": "v1.0.0.2",
+    "LastUpdated": 1705063609,
+    "DownloadCount": 8,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/v1.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/v1.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/v1.0.0.2/latest.zip"
   },
   {
     "Author": "Kirbo",
