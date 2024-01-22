@@ -117,10 +117,10 @@
     "Name": "Better Targeting System",
     "Punchline": "A more intelligent targeting system for the game.",
     "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
-    "InternalName": "BetterTargetingSystem",
+    "InternalName": "BetterTargetingSystemPvP",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/BrakusTapus/BetterTargetingSystem",
-    "IconUrl": "https://github.com/BrakusTapus/BetterTargetingSystem/raw/main/BetterTargetingSystem/images/icon.png",
+    "RepoUrl": "https://github.com/BrakusTapus/BetterTargetingSystemPvP",
+    "IconUrl": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/raw/main/BetterTargetingSystem/images/icon.png",
     "Tags": [
       "Tab",
       "Target",
