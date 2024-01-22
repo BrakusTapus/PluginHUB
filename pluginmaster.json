@@ -128,11 +128,11 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.0",
-    "LastUpdated": 1705894887,
+    "AssemblyVersion": "1.0.0.1",
+    "LastUpdated": 1705895945,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystem/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystem/releases/download/1.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystem/releases/download/1.0.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystem/releases/download/1.0.0.1/BetterTargetingSystem.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystem/releases/download/1.0.0.1/BetterTargetingSystem.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystem/releases/download/1.0.0.1/BetterTargetingSystem.zip"
   }
 ]
