@@ -29,9 +29,9 @@
     },
     {
         "username": "BrakusTapus",
-        "pluginName": "BetterTargetingSystem",
-        "repo": "BetterTargetingSystem",
+        "pluginName": "BetterTargetingSystemPvP",
+        "repo": "BetterTargetingSystemPvP",
         "branch": "main",
-        "configFolder": "BetterTargetingSystem"
+        "configFolder": "BetterTargetingSystemPvP"
     }
 ]
