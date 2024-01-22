@@ -26,5 +26,12 @@
         "repo": "FakeName",
         "branch": "main",
         "configFolder": "FakeName"
+    },
+    {
+        "username": "BrakusTapus",
+        "pluginName": "BetterTargetingSystem",
+        "repo": "BetterTargetingSystem",
+        "branch": "main",
+        "configFolder": "BetterTargetingSystem"
     }
 ]
