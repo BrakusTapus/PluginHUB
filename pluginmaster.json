@@ -128,11 +128,11 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.3",
-    "LastUpdated": 1705896651,
+    "AssemblyVersion": "1.0.0.4",
+    "LastUpdated": 1705897329,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.3/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip"
   }
 ]
