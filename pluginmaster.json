@@ -20,12 +20,12 @@
     "Changelog": "v1.0.0.2 working on UI stuff mostly for now.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.2",
-    "LastUpdated": 1705063609,
-    "DownloadCount": 28,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.2/latest.zip"
+    "AssemblyVersion": "1.0.0.3",
+    "LastUpdated": 1706757310,
+    "DownloadCount": 45,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.3/latest.zip"
   },
   {
     "Author": "Kirbo",
@@ -50,7 +50,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.3.7.3",
     "LastUpdated": 1703759090,
-    "DownloadCount": 10,
+    "DownloadCount": 12,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.3/latest.zip"
@@ -79,7 +79,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "0.0.0.8",
     "LastUpdated": 1703675634,
-    "DownloadCount": 11,
+    "DownloadCount": 14,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip"
@@ -107,7 +107,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.11",
     "LastUpdated": 1703683406,
-    "DownloadCount": 10,
+    "DownloadCount": 11,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip"
@@ -130,7 +130,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.4",
     "LastUpdated": 1705897329,
-    "DownloadCount": 0,
+    "DownloadCount": 18,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip"
