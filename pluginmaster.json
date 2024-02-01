@@ -20,12 +20,12 @@
     "Changelog": "v1.0.0.2 working on UI stuff mostly for now.",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.3",
-    "LastUpdated": 1706757310,
-    "DownloadCount": 45,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.3/latest.zip"
+    "AssemblyVersion": "1.0.0.4",
+    "LastUpdated": 1706815528,
+    "DownloadCount": 54,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.4/latest.zip"
   },
   {
     "Author": "Kirbo",
