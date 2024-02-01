@@ -17,7 +17,7 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/BrakusTapus/AetherBox/main/images/image1.png"
     ],
-    "Changelog": "v1.0.0.2 working on UI stuff mostly for now.",
+    "Changelog": "I need to automate these changelogs somehow",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.4",
