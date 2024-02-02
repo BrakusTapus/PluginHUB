@@ -17,15 +17,15 @@
     "ImageUrls": [
       "https://raw.githubusercontent.com/BrakusTapus/AetherBox/main/images/image1.png"
     ],
-    "Changelog": "I need to automate these changelogs somehow",
+    "Changelog": "I really need to make these changelogs easier",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.4",
-    "LastUpdated": 1706815528,
-    "DownloadCount": 54,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.4/latest.zip"
+    "AssemblyVersion": "1.0.0.6",
+    "LastUpdated": 1706909652,
+    "DownloadCount": 69,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.6/latest.zip"
   },
   {
     "Author": "Kirbo",
@@ -130,7 +130,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.4",
     "LastUpdated": 1705897329,
-    "DownloadCount": 18,
+    "DownloadCount": 19,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.4/latest.zip"
