@@ -20,12 +20,12 @@
     "Changelog": "I really need to make these changelogs easier",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.6",
-    "LastUpdated": 1706909652,
-    "DownloadCount": 69,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.6/latest.zip"
+    "AssemblyVersion": "1.0.0.7",
+    "LastUpdated": 1706913829,
+    "DownloadCount": 70,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.7/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.7/latest.zip"
   },
   {
     "Author": "Kirbo",
