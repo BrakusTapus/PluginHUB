@@ -20,12 +20,12 @@
     "Changelog": "I really need to make these changelogs easier",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.9",
-    "LastUpdated": 1707741818,
-    "DownloadCount": 171,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.9/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.9/latest.zip"
+    "AssemblyVersion": "1.0.0.10",
+    "LastUpdated": 1707828431,
+    "DownloadCount": 200,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.10/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.10/latest.zip"
   },
   {
     "Author": "Kirbo",
@@ -50,7 +50,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.3.7.3",
     "LastUpdated": 1703759090,
-    "DownloadCount": 14,
+    "DownloadCount": 16,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.3/latest.zip"
@@ -107,7 +107,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.11",
     "LastUpdated": 1703683406,
-    "DownloadCount": 27,
+    "DownloadCount": 29,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.11/latest.zip"
