@@ -57,35 +57,6 @@
   },
   {
     "Author": "Kirbo",
-    "Name": "Sample Plugin",
-    "Punchline": "A plugin for private use. It does not provide anything usefull.",
-    "Description": "This plugin serves as a sandbox/playground for me, it serves no purpose.",
-    "InternalName": "SamplePlugin",
-    "RepoUrl": "https://github.com/BrakusTapus/SamplePlugin",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "sample",
-      "plugin",
-      "private"
-    ],
-    "DalamudApiLevel": 9,
-    "AcceptsFeedback": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/images/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/SamplePlugin/images/image1.png"
-    ],
-    "Changelog": "Click the new Changelog button to see whats new",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.0.8",
-    "LastUpdated": 1703675634,
-    "DownloadCount": 74,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip"
-  },
-  {
-    "Author": "Kirbo",
     "Name": "Fake Name",
     "Punchline": "Show a fake name on your game ui.",
     "Description": "Show a fake name on your game ui.",
