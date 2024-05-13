@@ -22,7 +22,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.13",
     "LastUpdated": 1715300188,
-    "DownloadCount": 735,
+    "DownloadCount": 899,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip"
@@ -50,7 +50,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.3.7.4",
     "LastUpdated": 1715299424,
-    "DownloadCount": 96,
+    "DownloadCount": 117,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.4/latest.zip"
@@ -79,7 +79,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "0.0.0.8",
     "LastUpdated": 1703675634,
-    "DownloadCount": 74,
+    "DownloadCount": 76,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip"
@@ -107,7 +107,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.12",
     "LastUpdated": 1715299978,
-    "DownloadCount": 208,
+    "DownloadCount": 242,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip"
@@ -130,7 +130,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.5",
     "LastUpdated": 1715298923,
-    "DownloadCount": 217,
+    "DownloadCount": 267,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip"
