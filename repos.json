@@ -15,10 +15,10 @@
     },
     {
         "username": "BrakusTapus",
-        "pluginName": "SamplePlugin",
-        "repo": "SamplePlugin",
+        "pluginName": "EasyCombat",
+        "repo": "PluginHUB",
         "branch": "main",
-        "configFolder": "SamplePlugin"
+        "configFolder": "EasyCombat"
     },
     {
         "username": "BrakusTapus",
