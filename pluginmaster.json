@@ -57,32 +57,35 @@
   },
   {
     "Author": "Kirbo",
-    "Name": "Sample Plugin",
-    "Punchline": "A plugin for private use. It does not provide anything usefull.",
-    "Description": "This plugin serves as a sandbox/playground for me, it serves no purpose.",
-    "InternalName": "SamplePlugin",
-    "RepoUrl": "https://github.com/BrakusTapus/SamplePlugin",
+    "Name": "Easy Combat",
+    "Punchline": "Not actually ready for public use, but figuring out how to make a pluginmaster work while privated is not high on the to do list, mkayy",
+    "Description": "Automatic rotations for various jobs in FFXIV.",
+    "InternalName": "EasyCombat",
+    "RepoUrl": "https://github.com/BrakusTapus/PluginHUB",
     "ApplicableVersion": "any",
     "Tags": [
-      "sample",
-      "plugin",
-      "private"
+      "Lazy",
+      "Rotations",
+      "for",
+      "very",
+      "lazy",
+      "People",
     ],
     "DalamudApiLevel": 9,
     "AcceptsFeedback": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/EasyCombat/Assets/Images/LogoTransparent.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/BrakusTapus/SamplePlugin/main/SamplePlugin/images/image1.png"
+      "https://github.com/BrakusTapus/PluginHUB/blob/main/EasyCombat/Assets/Images/Dark.png?raw=true"
     ],
-    "Changelog": "Click the new Changelog button to see whats new",
+    "Changelog": "Nothing to see here",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "1.0.0.76",
     "LastUpdated": 1703675634,
-    "DownloadCount": 89,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/SamplePlugin/releases/download/0.0.0.8/latest.zip"
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.76/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.76/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.76/latest.zip"
   },
   {
     "Author": "Kirbo",
