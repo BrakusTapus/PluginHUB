@@ -76,12 +76,12 @@
     "Changelog": "-",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.77",
+    "AssemblyVersion": "v1.0.0.76",
     "LastUpdated": 1719217435,
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.77/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.77/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.77/latest.zip"
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/v1.0.0.76/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/v1.0.0.76/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/v1.0.0.76/latest.zip"
   },
   {
     "Author": "Kirbo",
