@@ -22,7 +22,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.13",
     "LastUpdated": 1715300188,
-    "DownloadCount": 1161,
+    "DownloadCount": 1168,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip"
@@ -50,19 +50,18 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.3.7.4",
     "LastUpdated": 1715299424,
-    "DownloadCount": 154,
+    "DownloadCount": 155,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.4/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/ActionTimelineEx/releases/download/1.3.7.4/latest.zip"
   },
   {
-    "Name": "EasyCombat",
     "Author": "Kirbo",
-    "Punchline": "Automatic Rotations.",
-    "Description": "Automatic rotations for various jobs in FFXIV.",
+    "Name": "EasyCombat",
     "InternalName": "EasyCombat",
-    "RepoUrl": "https://github.com/BrakusTapus/PluginHUB",
+    "Description": "Automatic rotations for various jobs in FFXIV.",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/BrakusTapus/PluginHUB",
     "Tags": [
       "combat",
       "rotation"
@@ -71,17 +70,21 @@
       "jobs"
     ],
     "DalamudApiLevel": 9,
-    "AcceptsFeedback": false,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
     "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/EasyCombat/Assets/Images/LogoTransparent.png",
-    "Changelog": "-",
+    "Punchline": "Automatic Rotations.",
+    "AcceptsFeedback": false,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.78",
-    "LastUpdated": 1719217435,
-    "DownloadCount": 1,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.78/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.78/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.78/latest.zip"
+    "AssemblyVersion": "1.0.0.79",
+    "LastUpdated": 1719334769,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/latest.zip"
   },
   {
     "Author": "Kirbo",
@@ -106,7 +109,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.12",
     "LastUpdated": 1715299978,
-    "DownloadCount": 327,
+    "DownloadCount": 328,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip"
@@ -129,7 +132,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.5",
     "LastUpdated": 1715298923,
-    "DownloadCount": 362,
+    "DownloadCount": 363,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip"
