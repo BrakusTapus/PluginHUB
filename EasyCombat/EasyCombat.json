@@ -1,20 +1,24 @@
 {
-    "Name": "EasyCombat",
-    "Author": "Kirbo",
-    "Punchline": "Automatic Rotations.",
-    "Description": "Automatic rotations for various jobs in FFXIV.",
-    "InternalName": "EasyCombat",
-    "RepoUrl": "https://github.com/BrakusTapus/PluginHUB",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "combat",
-      "rotation"
-    ],
-    "CategoryTags": [
-      "jobs"
-    ],
-    "DalamudApiLevel": 9,
-    "AcceptsFeedback": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/EasyCombat/Assets/Images/LogoTransparent.png",
-    "Changelog": "-"
+  "Author": "Kirbo",
+  "Name": "EasyCombat",
+  "InternalName": "EasyCombat",
+  "AssemblyVersion": "1.0.0.79",
+  "Description": "Automatic rotations for various jobs in FFXIV.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/BrakusTapus/PluginHUB",
+  "Tags": [
+    "combat",
+    "rotation"
+  ],
+  "CategoryTags": [
+    "jobs"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/EasyCombat/Assets/Images/LogoTransparent.png",
+  "Punchline": "Automatic Rotations.",
+  "AcceptsFeedback": false
 }
