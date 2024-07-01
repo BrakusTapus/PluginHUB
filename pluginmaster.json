@@ -22,7 +22,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.13",
     "LastUpdated": 1715300188,
-    "DownloadCount": 1168,
+    "DownloadCount": 1171,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip"
@@ -82,9 +82,9 @@
     "AssemblyVersion": "1.0.0.79",
     "LastUpdated": 1719334769,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/EasyCombat.Rotations.dll",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/EasyCombat.Rotations.dll",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/EasyCombat.Rotations.dll"
   },
   {
     "Author": "Kirbo",
@@ -109,7 +109,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.12",
     "LastUpdated": 1715299978,
-    "DownloadCount": 328,
+    "DownloadCount": 332,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip"
@@ -132,7 +132,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.5",
     "LastUpdated": 1715298923,
-    "DownloadCount": 363,
+    "DownloadCount": 400,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.5/latest.zip"
