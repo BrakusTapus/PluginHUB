@@ -1,33 +1,5 @@
 [
   {
-    "Name": "AetherBox",
-    "Author": "Kirbo",
-    "Punchline": "Toolkit for your favorite game!",
-    "Description": "Multi purpose plugin for private use.",
-    "InternalName": "AetherBox",
-    "RepoUrl": "https://github.com/BrakusTapus/AetherBox",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "Utility",
-      "Plugin"
-    ],
-    "DalamudApiLevel": 9,
-    "AcceptsFeedback": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/AetherBox/main/images/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/BrakusTapus/AetherBox/main/images/image1.png"
-    ],
-    "Changelog": "I really need to make these changelogs easier",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.13",
-    "LastUpdated": 1715300188,
-    "DownloadCount": 1171,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/AetherBox/releases/download/1.0.0.13/latest.zip"
-  },
-  {
     "Author": "Kirbo",
     "Name": "ActionTimelineEx",
     "Punchline": "Show your actions in real-time.",
@@ -85,34 +57,6 @@
     "DownloadLinkInstall": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/EasyCombat.Rotations.dll",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/EasyCombat.Rotations.dll",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/PluginHUB/releases/download/1.0.0.79/EasyCombat.Rotations.dll"
-  },
-  {
-    "Author": "Kirbo",
-    "Name": "Fake Name",
-    "Punchline": "Show a fake name on your game ui.",
-    "Description": "Show a fake name on your game ui.",
-    "InternalName": "FakeName",
-    "RepoUrl": "https://github.com/BrakusTapus/FakeName",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "name",
-      "ui"
-    ],
-    "DalamudApiLevel": 9,
-    "AcceptsFeedback": false,
-    "IconUrl": "https://raw.githubusercontent.com/BrakusTapus/FakeName/main/images/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/BrakusTapus/FakeName/main/FakeName/images/image1.png"
-    ],
-    "Changelog": "Click the new Changelog button to see whats new",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.12",
-    "LastUpdated": 1715299978,
-    "DownloadCount": 332,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/FakeName/releases/download/1.0.0.12/latest.zip"
   },
   {
     "Author": "Kirbo",
