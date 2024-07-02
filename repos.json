@@ -1,13 +1,6 @@
 [    
     {
         "username": "BrakusTapus",
-        "pluginName": "AetherBox",
-        "repo": "AetherBox",
-        "branch": "main",
-        "configFolder": "AetherBox"
-    },
-    {
-        "username": "BrakusTapus",
         "pluginName": "ActionTimelineEx",
         "repo": "ActionTimelineEx",
         "branch": "main",
@@ -19,13 +12,6 @@
         "repo": "PluginHUB",
         "branch": "main",
         "configFolder": "EasyCombat"
-    },
-    {
-        "username": "BrakusTapus",
-        "pluginName": "FakeName",
-        "repo": "FakeName",
-        "branch": "main",
-        "configFolder": "FakeName"
     },
     {
         "username": "BrakusTapus",
