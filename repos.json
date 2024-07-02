@@ -1,20 +1,6 @@
 [    
     {
         "username": "BrakusTapus",
-        "pluginName": "ActionTimelineEx",
-        "repo": "ActionTimelineEx",
-        "branch": "main",
-        "configFolder": "ActionTimelineEx"
-    },
-    {
-        "username": "BrakusTapus",
-        "pluginName": "EasyCombat",
-        "repo": "PluginHUB",
-        "branch": "main",
-        "configFolder": "EasyCombat"
-    },
-    {
-        "username": "BrakusTapus",
         "pluginName": "BetterTargetingSystemPvP",
         "repo": "BetterTargetingSystemPvP",
         "branch": "main",
