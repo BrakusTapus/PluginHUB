@@ -17,7 +17,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.6",
     "LastUpdated": 1719906839,
-    "DownloadCount": 413,
+    "DownloadCount": 446,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip"
@@ -27,17 +27,20 @@
     "Name": "Cammy",
     "Punchline": "A simple editor for the game's camera settings",
     "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it\n\nUpdated to Api10, removed free cam and no-collision, which both need updated signatures and i barely know how to use ghidra. i just wanted the extra zoom.",
-    "InternalName": "Cammy",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/BrakusTapus/Cammy",
     "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/image1.png"
+    ],
+    "RepoUrl": "https://github.com/BrakusTapus/Cammy",
     "Tags": [
       "utility"
     ],
+    "InternalName": "Cammy",
+    "Changelog": "Updated to Api10, removed free cam and no-collision, which both need updated signatures and i barely know how to use ghidra. i just wanted the extra zoom",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "AssemblyVersion": "2.1.0.9",
-    "LastUpdated": 1719906839,
+    "LastUpdated": 1720060406,
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/Cammy/releases/download/2.1.0.9/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/Cammy/releases/download/2.1.0.9/latest.zip",
