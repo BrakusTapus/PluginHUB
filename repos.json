@@ -5,5 +5,12 @@
         "repo": "BetterTargetingSystemPvP",
         "branch": "main",
         "configFolder": "BetterTargetingSystemPvP"
-    }
+    },
+    {
+        "username": "BrakusTapus",
+        "pluginName": "Cammy",
+        "repo": "Cammy",
+        "branch": "updates",
+        "configFolder": "Cammy"
+    }    
 ]
