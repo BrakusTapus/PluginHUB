@@ -8,9 +8,9 @@
     },
     {
         "username": "BrakusTapus",
-        "pluginName": "Cammy",
-        "repo": "Cammy",
-        "branch": "master",
-        "configFolder": "Cammy"
+        "pluginName": "BetterTargetingSystemPvP",
+        "repo": "BetterTargetingSystemPvP",
+        "branch": "main",
+        "configFolder": "BetterTargetingSystemPvP"
     }    
 ]
