@@ -1,10 +1,10 @@
 [    
     {
         "username": "BrakusTapus",
-        "pluginName": "BetterTargetingSystemPvP",
-        "repo": "BetterTargetingSystemPvP",
+        "pluginName": "Plugin",
+        "repo": "Plugin",
         "branch": "main",
-        "configFolder": "BetterTargetingSystemPvP"
+        "configFolder": "Plugin"
     },
     {
         "username": "BrakusTapus",
