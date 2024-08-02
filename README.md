@@ -4,7 +4,7 @@
 
 **To use my plugins you'll need to add this link in your Dalamud settings.**
 
-```json
+```c#
 https://raw.githubusercontent.com/BrakusTapus/PluginHUB/main/pluginmaster.json
 ```
 
