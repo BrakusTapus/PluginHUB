@@ -1,43 +1,58 @@
 [
-  {
-    "Author": "Kirbo",
-    "Name": "Better Targeting System",
-    "Punchline": "A more intelligent targeting system for the game.",
-    "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
-    "InternalName": "BetterTargetingSystemPvP",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/BrakusTapus/BetterTargetingSystemPvP",
-    "IconUrl": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/raw/main/BetterTargetingSystem/images/icon.png",
-    "Tags": [
-      "Tab",
-      "Target",
-      "Targeting"
-    ],
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.0.6",
-    "LastUpdated": 1719906839,
-    "DownloadCount": 446,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip"
-  },
-  {
-    "Author": "Kirbo",
-    "Name": "Plugin",
-    "Punchline": "_",
-    "Description": "_",
-    "IconUrl": "https://i.imgur.com/dgtq4PI.png",
-    "ImageUrls": [
-      ""
-    ],
-    "RepoUrl": "https://github.com/BrakusTapus/Plugin",
-    "Tags": [
-      "Plugin"
-    ],
-    "InternalName": "Plugin",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0
-  }
+    {
+        "Author":  "Kirbo",
+        "Name":  "Plugin",
+        "Punchline":  "A one-liner for /xlplugins.",
+        "Description":  "List slash-command(s).",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/BrakusTapus/TBD",
+        "Tags":  [
+                     "Menu",
+                     "plugin",
+                     "OSRS"
+                 ],
+        "DalamudApiLevel":  10,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://i.imgur.com/dgtq4PI.png",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "AssemblyVersion":  "0.0.0.1",
+        "LastUpdated":  1722565538,
+        "DownloadCount":  1,
+        "DownloadLinkInstall":  "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip"
+    },
+    {
+        "Author":  "Kirbo",
+        "Name":  "Plugin",
+        "Punchline":  "A one-liner for /xlplugins.",
+        "Description":  "List slash-command(s).",
+        "ApplicableVersion":  "any",
+        "RepoUrl":  "https://github.com/BrakusTapus/TBD",
+        "Tags":  [
+                     "Menu",
+                     "plugin",
+                     "OSRS"
+                 ],
+        "DalamudApiLevel":  10,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "IconUrl":  "https://i.imgur.com/dgtq4PI.png",
+        "AcceptsFeedback":  true,
+        "IsHide":  "False",
+        "IsTestingExclusive":  "False",
+        "AssemblyVersion":  "0.0.0.1",
+        "LastUpdated":  1722565538,
+        "DownloadCount":  1,
+        "DownloadLinkInstall":  "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip"
+    }
 ]
