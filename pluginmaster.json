@@ -1,6 +1,35 @@
 [
   {
     "Author": "Kirbo",
+    "Name": "Plugin",
+    "Punchline": "_",
+    "Description": "_",
+    "InternalName": "Plugin",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/BrakusTapus/Plugin",
+    "Tags": [
+      "plugin",
+      "",
+      ""
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://i.imgur.com/dgtq4PI.png",
+    "AcceptsFeedback": false,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "AssemblyVersion": "0.0.0.1",
+    "LastUpdated": 1722558338,
+    "DownloadCount": 2,
+    "DownloadLinkInstall": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip"
+  },
+  {
+    "Author": "Kirbo",
     "Name": "Better Targeting System",
     "Punchline": "A more intelligent targeting system for the game.",
     "Description": "A more intelligent targeting system for the game which also includes new keybinds.",
@@ -17,31 +46,9 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.0.0.6",
     "LastUpdated": 1719906839,
-    "DownloadCount": 446,
+    "DownloadCount": 661,
     "DownloadLinkInstall": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BrakusTapus/BetterTargetingSystemPvP/releases/download/1.0.0.6/latest.zip"
-  },
-  {
-    "Author": "Kirbo",
-    "Name": "Plugin",
-    "Punchline": "_",
-    "Description": "_",
-    "IconUrl": "https://i.imgur.com/dgtq4PI.png",
-    "ImageUrls": [
-      ""
-    ],
-    "RepoUrl": "https://github.com/BrakusTapus/Plugin",
-    "Tags": [
-      "Plugin"
-    ],
-    "InternalName": "Plugin",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 0,    
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip"    
   }
 ]
