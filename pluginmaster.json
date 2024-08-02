@@ -38,10 +38,6 @@
     "InternalName": "Plugin",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1720060406,
-    "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BrakusTapus/Plugin/releases/download/0.0.0.1/latest.zip"
+    "DownloadCount": 0
   }
 ]
