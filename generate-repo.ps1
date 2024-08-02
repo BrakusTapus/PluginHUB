@@ -41,7 +41,7 @@ foreach ($plugin in $pluginList) {
     # Add additional properties to the config
     $config | Add-Member -Name "IsHide" -MemberType NoteProperty -Value "False"
     $config | Add-Member -Name "IsTestingExclusive" -MemberType NoteProperty -Value "False"
-    $config | Add-Member -Name "AssemblyVersion" -MemberType NoteProperty -Value $assembly -Force
+    $config | Add-Member -Name "AssemblyVersion" -MemberType NoteProperty -Value -Force $assembly
     $config | Add-Member -Name "LastUpdated" -MemberType NoteProperty -Value $time
     $config | Add-Member -Name "DownloadCount" -MemberType NoteProperty -Value $totalCount
     $config | Add-Member -Name "DownloadLinkInstall" -MemberType NoteProperty -Value $download
